@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex"
+    },
+    {
+      "id": "2",
+      "name": "Oleg"
+    },
+    {
+      "id": "3",
+      "name": "Boris"
+    },
+    {
+      "id": "4",
+      "name": "Bogdan"
+    },
+    {
+      "id": "76ef",
+      "name": "Viktor"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "tv",
+      "price": 20000
+    },
+    {
+      "id": "2",
+      "title": "phone",
+      "price": 4344
+    },
+    {
+      "id": "3",
+      "title": "machine",
+      "price": 2455
+    }
+  ]
+}
